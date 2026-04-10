@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Omar Mohamed, a future Mobile App Developer living in Egypt <img src="https://cdn.countryflags.com/thumbs/egypt/flag-800.png" width="13"/> 
+<p>Welcome to my page! </br> I'm Omar Mohamed, Mobile App Developer (Flutter) , living in Egypt <img src="https://cdn.countryflags.com/thumbs/egypt/flag-800.png" width="13"/> 
 <h3>Things I code with</h3>
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
