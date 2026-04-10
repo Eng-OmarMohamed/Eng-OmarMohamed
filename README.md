@@ -1,10 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>
-Welcome to my page! </br> 
-I'm Omar Mohamed, a Mobile App Developer (Flutter) living in Egypt 🇪🇬
-</p>
 
+<p>Welcome to my page! </br> I'm Omar Mohamed, a future Mobile App Developer living in Egypt <img src="https://cdn.countryflags.com/thumbs/egypt/flag-800.png" width="13"/> 
 <h3>Things I code with</h3>
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -14,8 +11,8 @@ I'm Omar Mohamed, a Mobile App Developer (Flutter) living in Egypt 🇪🇬
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
-
 <h3>Features 🚀</h3>
+
 <table>
   <thead align="center">
     <tr>
@@ -26,24 +23,8 @@ I'm Omar Mohamed, a Mobile App Developer (Flutter) living in Egypt 🇪🇬
     </tr>
   </thead>
 </table>
-
-<h3>🚀 Currently Learning</h3>
-<ul>
-  <li>Flutter Development</li>
-  <li>Data Structures & Algorithms</li>
-</ul>
-
-<h3>📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-OmarMohamed&show_icons=true&theme=tokyonight" />
-</p>
-
-<h3>🔥 Top Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-OmarMohamed&layout=compact&theme=tokyonight" />
-</p>
-
 <h3>Where to find me 🌍</h3>
+
 <p>
   <a href="https://github.com/Eng-OmarMohamed" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
