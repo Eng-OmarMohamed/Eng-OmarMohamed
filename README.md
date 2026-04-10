@@ -11,15 +11,14 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
+<h3>Featuress !</h3>
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+<td><b>🧠 Problem Solving</b> ✔️</td>
+<td><b>⚡ Fast Learner</b> ✔️</td>
+<td><b>💡 Critical Thinking</b> ✔️</td>
+<td><b>🤝 Team Work</b> ✔️</td>
     </tr>
   </thead>
   <tbody>
